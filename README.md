@@ -10,8 +10,3 @@
 <br>
 <strong>Type help for a list of comamnds</strong>
 <br>
-<h4>Screenshots:</h4>
-
-<br>
-
-<br>
