@@ -1,0 +1,3 @@
+gcc -o return_2 return_2.c
+chmod a+x return_2
+./return_2
